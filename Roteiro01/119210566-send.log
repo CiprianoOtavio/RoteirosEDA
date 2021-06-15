@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-20T18:51:54.819-0300</date>
+  <logger>OTAVIO MANOEL SALES CIPRIANO</logger>
+  <level>FINE</level>
+  <message>File 119210566-OTAVIO MANOEL SALES CIPRIANO.zip was received. It was sent by OTAVIO MANOEL SALES CIPRIANO from IP 26.25.136.237 at 20-03-2021 18*51*54</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-20T21:52:58.141-0300</date>
+  <logger>OTAVIO MANOEL SALES CIPRIANO</logger>
+  <level>FINE</level>
+  <message>File 119210566-OTAVIO MANOEL SALES CIPRIANO.zip was received. It was sent by OTAVIO MANOEL SALES CIPRIANO from IP 26.25.136.237 at 20-03-2021 21*52*58</message>
+</record>
